@@ -1093,3 +1093,9 @@
         
     }
 }
+
+dt {
+    display: list-item;
+    list-style-type: disc;
+    margin-left:6em;
+    }
